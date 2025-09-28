@@ -1,7 +1,8 @@
 # Honeypot
 
 #SSH Honeypot
-Simple low-interaction SSh honepot, written on Python and tested by author.
+Simple low-interaction SSh honeypot, written on Python and tested by author.
+It contains connections, recieved data.
 
 ## Usage
 
